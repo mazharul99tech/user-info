@@ -1,0 +1,23 @@
+.users{
+    width: 800px;
+    display: flex;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.user-data{
+    margin-left: 40px;
+}
+.users img{
+    border-radius: 50%;
+}
+.main-btn{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+}
